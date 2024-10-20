@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abishek Karthik</h1>
-<h3 align="center">A passionate developer from RVCE,Bangalore</h3>
+<h3 align="center">A passionate developer working in Palo Alto Networks from RVCE,Bangalore</h3>
 
 - 🌱 I’m currently learning **Testing tools**
 
